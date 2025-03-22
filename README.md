@@ -76,7 +76,7 @@ python run_optimization.py --num-portfolios 20000
 
 The main output is the "Efficient Frontier" plot:
 
-![Efficient Frontier Example](https://example.com/efficient_frontier.png)
+![Efficient Frontier Example](Efficient%20Frontier.png)
 
 - **Scatter Points**: Each dot represents a unique portfolio allocation
   - **X-axis**: Portfolio volatility (risk)
